@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 👋 来啦，请坐
+# Hi there 👋 来啦，请坐 💺
 
 <img src="images/MyNFT.jpeg" alt="My NFT" width="200" height="200">
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 🕶️ I'm a bioinformatician in progress.
 - 💻 I'm currently working on sequencing data analysis.
 - 🎸 I'm a guitar player, a singer, and a secret song writer.
-- 🎞️ I'm also an ameteur [photographer](https://github.com/XuejingLyu/photography).
+- 🎞️ I'm also an ameteur [photographer](https://XuejingLyu.github.io/photography).
 
 ## Projects
 
