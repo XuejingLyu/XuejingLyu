@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 - [About Me](#about-me)
 - [Projects](#projects)
-- [Contact](#contact)
 
 ## About Me
 
