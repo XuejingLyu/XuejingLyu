@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **XuejingLyu/XuejingLyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there 👋 来啦，请坐
+
+![My Logo](images/MyNFT.jpeg)
+
+- [About Me](#about-me)
+- [Projects](#projects)
+- [Contact](#contact)
+
+## About Me
+
+I'm a software developer passionate about open source projects.
+
+## Projects
+
+- [Project 1](https://github.com/yourusername/project1)
+- [Project 2](https://github.com/yourusername/project2)
+
