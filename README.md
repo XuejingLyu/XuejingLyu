@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋 来啦，请坐
 
-![My Logo]<img src="images/MyNFT.jpeg" alt="My NFT" width="100" height="100">
+<img src="images/MyNFT.jpeg" alt="My NFT" width="200" height="200">
 
 - [About Me](#about-me)
 - [Projects](#projects)
@@ -24,10 +24,14 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I'm a software developer passionate about open source projects.
+- 🕶️ I'm a bioinformatician in progress.
+- 💻 I'm currently working on sequencing data analysis.
+- 🎸 I'm a guitar player, a singer, and a secret song writer.
+- 🎞️ I'm also an ameteur [photographer](https://github.com/XuejingLyu/photography).
 
 ## Projects
 
-- [Project 1](https://github.com/yourusername/project1)
-- [Project 2](https://github.com/yourusername/project2)
+- [CUT & Tag data analysis]
+- [Shiny APP development](https://github.com/XuejingLyu/gviz_shiny)
+- [Metagenome analysis](https://github.com/XuejingLyu/16S-rRNA-analysis)
 
