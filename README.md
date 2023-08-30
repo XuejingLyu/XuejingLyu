@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋 来啦，请坐
 
-![My Logo](images/MyNFT.jpeg)
+![My Logo]<img src="images/MyNFT.jpeg" alt="My NFT" width="100" height="100">
 
 - [About Me](#about-me)
 - [Projects](#projects)
