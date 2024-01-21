@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ## Projects
 
-- [CUT & Tag data analysis]
+- [CUT & Tag data analysis](https://github.com/XuejingLyu/cutandtag_shiny)
 - [Shiny APP development](https://github.com/XuejingLyu/gviz_shiny)
 - [Metagenome analysis](https://github.com/XuejingLyu/16S-rRNA-analysis)
 
