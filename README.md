@@ -34,13 +34,3 @@ Here are some ideas to get you started:
 - [Shiny APP development](https://github.com/XuejingLyu/gviz_shiny)
 - [Metagenome analysis](https://github.com/XuejingLyu/16S-rRNA-analysis)
 
-
-<table>
-    </td>
-    <td valign="middle">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XuejingLyu&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-  
-  </tr>
-</table>
