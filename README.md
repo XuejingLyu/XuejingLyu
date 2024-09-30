@@ -39,7 +39,7 @@ Here are some ideas to get you started:
     </td>
     <td valign="middle">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XuejingLyu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XuejingLyu&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
   
   </tr>
