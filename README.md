@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 🕶️ I'm a bioinformatician in progress.
 - 💻 I'm currently working on sequencing data analysis.
 - 🎸 I'm a guitar player, a singer, and a secret song writer.
-- 🎞️ I'm also an ameteur [photographer](https://XuejingLyu.github.io/photography).
+- 🎞️ I'm also an ameteur photographer, check my pieces [here](https://XuejingLyu.github.io/photography).
 
 ## Projects
 
